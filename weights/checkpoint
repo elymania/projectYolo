@@ -1,0 +1,2 @@
+model_checkpoint_path: "yolov3_weights.tf"
+all_model_checkpoint_paths: "yolov3_weights.tf"
